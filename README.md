@@ -77,3 +77,8 @@ Training a robust classifier using Random Forest.
 Saving the trained model and scaler for future use.
 This is an essential workflow for any machine learning project, especially when deploying models for real-world applications. The next step would be to load the model in a separate script or deploy it using a web framework like Flask or FastAPI to make predictions on new data.
 
+*OUTPUT*:
+
+![Image](https://github.com/user-attachments/assets/12e041e4-acb9-491f-9c6a-dc54f547c0c1)
+
+![Image](https://github.com/user-attachments/assets/9db403c1-3cae-4150-b507-253e9e7b05d9)
